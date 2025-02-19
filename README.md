@@ -5,7 +5,7 @@
 - **🌱 Tecnologias:** Trabalho diariamente com **Python**, **JavaScript** e **C**, utilizando o **VSCode** como minha principal ferramenta.
 - **🚀 Projeto Atual:** Estou desenvolvendo um sistema de **telemetria para a equipe UTFORCE E-RACING**, unindo a tecnologia com minha paixão por velocidade.
 - **💼 Portfólio & Networking:** Meu portfólio reflete meu compromisso com a excelência e a constante busca por aprendizado. Estou sempre aberto a novas conexões e oportunidades.
-- **📫 Contato:** www.linkedin.com/in/lucas-f-christen-69327a21b**.
+- **📫 Contato:** www.linkedin.com/in/lucas-f-christen-69327a21b.
 - **😄 Pronome:** Ele/Dele.
 - **⚡ Fun Fact:** Sou apaixonado por carros, especialmente pela **Fórmula 1**. Essa paixão vem de família – meu tataravô corria corridas de motos na Suíça!
 
