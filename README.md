@@ -1,7 +1,7 @@
 **Olá, eu sou Lucas Christen 👋**
 
 - **🔭 Profissão:** Desenvolvedor Full Stack apaixonado por tecnologia e desafios.
-- **🎓 Estudante:** Atualmente, sou estudante de Engenharia de Software na Unicesumar e de Ciências de Dados na UTFPR-PG.
+- **🎓 Estudante:** Atualmente, sou estudante de Engenharia de Software na Unicesumar e de Ciências da Computação na UTFPR-PG.
 - **🌱 Tecnologias:** Trabalho diariamente com **Python**, **JavaScript** e **C**, utilizando o **VSCode** como minha principal ferramenta.
 - **🚀 Projeto Atual:** Estou desenvolvendo um sistema de **telemetria para a equipe UTFORCE E-RACING**, unindo a tecnologia com minha paixão por velocidade.
 - **💼 Portfólio & Networking:** Meu portfólio reflete meu compromisso com a excelência e a constante busca por aprendizado. Estou sempre aberto a novas conexões e oportunidades.
