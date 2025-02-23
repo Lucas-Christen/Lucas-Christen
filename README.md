@@ -5,7 +5,7 @@ Claro, Lucas! Aqui está a versão atualizada do seu README incorporando suas ha
 **Olá, eu sou Lucas Christen 👋**
 
 - **🔭 Profissão:** Desenvolvedor Full Stack apaixonado por tecnologia e desafios.
-- **🎓 Estudante:** Atualmente, sou estudante de Engenharia de Software na Unicesumar e de Ciências da Computação na UTFPR-PG.
+- **🎓 Estudante:** Atualmente, sou estudante de Engenharia de Software na Unicesumar e de Engenharia Elétrica na UTFPR-PG.
 - **🌐 Idiomas:**
   - **Fluente:** Inglês
   - **Intermediário:** Francês, Espanhol
