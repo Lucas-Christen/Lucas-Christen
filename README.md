@@ -4,7 +4,7 @@
 
 Olá, eu sou Lucas Fernandes Christen 👋
 
-🔭 Profissão: Desenvolvedor Full Stack apaixonado por tecnologia e desafios.
+🔭 Profissão: Desenvolvedor Full Stack com Especialização em Engenharia de Dados apaixonado por tecnologia e desafios.
 
 🎓 Estudante: Atualmente, sou estudante de Engenharia de Software na Unicesumar e de Engenharia Elétrica na UTFPR-PG.
 
