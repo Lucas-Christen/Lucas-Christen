@@ -115,5 +115,13 @@ Estou sempre dando o meu melhor e acredito que não existe nada qcionar outras i
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
 />
+<img
+  align="left"
+  alt="Streamlit"
+  title="Streamlit"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/streamlit.svg"
+/>
 <br/>
 <br/>
