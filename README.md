@@ -71,7 +71,7 @@ Aqui estão as ferramentas e tecnologias que domino e as que estou ativamente ex
 * **Idiomas:**
     * **Fluente:** Inglês
     * **Intermediário:** Francês, Espanhol
-    * **Básico:** Coreano, Alemão (Use "Básico" em vez de "Iniciante" para soar mais profissional)
+    * **Básico:** Mandarim, Alemão 
 
 ---
 
