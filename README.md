@@ -53,7 +53,6 @@ Aqui estão as ferramentas e tecnologias que domino e as que estou ativamente ex
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Christen&theme=radical&hide_border=true" alt="Sequência de Contribuições de Lucas Christen"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Lucas-Christen&theme=radical" alt="Troféus GitHub de Lucas Christen"/>
 </p>
 
 ---
