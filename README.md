@@ -2,7 +2,7 @@
 
 ---
 
-### **Desenvolvedor Full Stack & Engenheiro de Dados em Formação**
+### **Desenvolvedor Full Stack & Cientista de Dados em Formação**
 
 Sou apaixonado por **construir soluções inovadoras do zero** e por transformar dados complexos em valor e insights acionáveis. Com uma sólida base em desenvolvimento web, estou me especializando em **Engenharia de Dados** para criar sistemas robustos e escaláveis.
 
@@ -66,7 +66,7 @@ Aqui estão as ferramentas e tecnologias que domino e as que estou ativamente ex
 ### 📚 Educação & Idiomas
 
 * **Estudante de Engenharia de Software** | Unicesumar
-* **Estudante de Engenharia Elétrica** | UTFPR-PG
+* **Estudante de Analise e Desenvolvimento de Sistemas** | UTFPR-PG
 
 * **Idiomas:**
     * **Fluente:** Inglês
