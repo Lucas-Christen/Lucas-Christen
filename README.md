@@ -2,91 +2,72 @@
 
 ---
 
-### **Desenvolvedor Full Stack & Cientista de Dados em Formação**
+### **P&D Developer | Especialista em Visão Computacional & IA**
 
-Sou apaixonado por **construir soluções inovadoras do zero** e por transformar dados complexos em valor e insights acionáveis. Com uma sólida base em desenvolvimento web, estou me especializando em **Engenharia de Dados** para criar sistemas robustos e escaláveis.
+Sou um desenvolvedor focado em **Pesquisa e Desenvolvimento (P&D)**, transformando desafios complexos de percepção visual em soluções de alta performance. Atualmente, dedico meus esforços ao desenvolvimento de sistemas inteligentes de monitoramento e análise de vídeo em larga escala, unindo **Inteligência Artificial** e **Sistemas de Tempo Real**.
 
-Minha jornada profissional e acadêmica me permite atuar em todo o ciclo de vida do software, do frontend à infraestrutura de dados, sempre buscando otimização e desafios que impulsionem o aprendizado contínuo.
+Minha expertise reside na criação de pipelines de processamento de imagem, treinamento de modelos de detecção/rastreamento e otimização de inferência para ambientes de produção.
 
 ---
 
-### 🚀 Habilidades & Tecnologias
+### 🚀 Stack Tecnológica & Especialidades
 
-Aqui estão as ferramentas e tecnologias que domino e as que estou ativamente explorando:
+Aqui estão as ferramentas que utilizo para dar "visão" às máquinas:
 
-**Dominadas:**
+**Visão Computacional & IA:**
 <p align="left">
-    <img alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="Angular" title="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-    <img alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
-    <img alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img alt="Plotly" title="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-    <img alt="Streamlit" title="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/streamlit.svg" />
-    <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img alt="Ionic" title="Ionic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"/> 
+    <img alt="OpenCV" title="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+    <img alt="PyTorch" title="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+    <img alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    <img alt="Nvidia" title="Nvidia/CUDA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nvidia.svg" />
+    <img alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 </p>
-<br clear="left"/>
 
-**Aprendendo/Explorando:**
+**Desenvolvimento & Infraestrutura:**
 <p align="left">
-    <img alt="AWS" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-    <img alt="Apache Spark" title="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-    <img alt="Apache Airflow" title="Apache Airflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-    <img alt="Jupyter" title="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
-<br clear="left"/>
+
+**Explorando no Momento:**
+> 🔍 **Edge AI** (Nvidia DeepStream, TensorRT), Modelos Generativos e Otimização de Inferência para sistemas críticos.
 
 ---
+
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Christen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Lucas Christen"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Christen&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens de Lucas Christen"/>
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Christen&theme=radical&hide_border=true" alt="Sequência de Contribuições de Lucas Christen"/>
-</p>
 
 ---
 
-### 📊 Atividade Recente no GitHub
-
-[![Minha Atividade Recente](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Christen&theme=github-dark&hide_title=true)](https://github.com/ashishguptaiitb/github-readme-activity-graph)
-
----
 ### 📚 Educação & Idiomas
 
-* **Estudante de Engenharia de Software** | Unicesumar
-* **Estudante de Analise e Desenvolvimento de Sistemas** | UTFPR-PG
+* **Engenharia de Software** | Unicesumar
+* **Análise e Desenvolvimento de Sistemas** | UTFPR-PG
 
 * **Idiomas:**
-    * **Fluente:** Inglês
-    * **Intermediário:** Francês, Espanhol
-    * **Básico:** Mandarim, Alemão 
+    * **Inglês:** Fluente
+    * **Francês & Espanhol:** Intermediário
+    * **Mandarim & Alemão:** Básico
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-Estou sempre aberto a novas conexões, colaborações em projetos e discussões sobre tecnologia, dados e inovação!
+Sempre interessado em trocar experiências sobre **AI Tech**, hardware de alta performance e projetos de visão computacional.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-f-christen-69327a21b/">
         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/Lucas-Christen?tab=repositories&sort=stargazers">
-        <img alt="Total de Estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lucas-Christen?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
-    </a>
-    <a href="https://github.com/Lucas-Christen?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Lucas-Christen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
 
@@ -94,6 +75,4 @@ Estou sempre aberto a novas conexões, colaborações em projetos e discussões 
 
 ### ✨ Curiosidade & Interesses Pessoais
 
-Sou um entusiasta de carros e um grande fã de Fórmula 1! Essa paixão vem de família – meu tataravô participava de corridas de moto na Suíça. Acredito que a busca por alta performance e inovação se estende dos circuitos para o código!
-
----
+Entusiasta de hardware e apaixonado por **Fórmula 1**! Minha conexão com a velocidade vem de família: meu tataravô já corria de moto na Suíça. Para mim, a busca pela "volta perfeita" se reflete na busca pelo código mais eficiente e pelo modelo de IA mais preciso. 🏁🏎️
