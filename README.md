@@ -4,7 +4,7 @@
 
 ### **P&D Developer | Especialista em Visão Computacional & IA**
 
-Sou um desenvolvedor focado em **Pesquisa e Desenvolvimento (P&D)**, transformando desafios complexos de percepção visual em soluções de alta performance. Atualmente, dedico meus esforços ao desenvolvimento de sistemas inteligentes de monitoramento e análise de vídeo em larga escala, unindo **Inteligência Artificial** e **Sistemas de Tempo Real**.
+Sou um desenvolvedor focado em **Pesquisa e Desenvolvimento (P&D)**, transformando desafios complexos de percepção visual em soluções de alta performance. Atualmente, dedico meus esforços ao desenvolvimento de sistemas inteligentes de monitoramento e análise de vídeo e imagens em larga escala, unindo **Inteligência Artificial** e **Sistemas de Tempo Real**.
 
 Minha expertise reside na criação de pipelines de processamento de imagem, treinamento de modelos de detecção/rastreamento e otimização de inferência para ambientes de produção.
 
