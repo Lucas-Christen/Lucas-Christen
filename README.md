@@ -51,7 +51,6 @@ Aqui estão as ferramentas que utilizo para dar "visão" às máquinas:
 
 ### 📚 Educação & Idiomas
 
-* **Engenharia de Software** | Unicesumar
 * **Análise e Desenvolvimento de Sistemas** | UTFPR-PG
 
 * **Idiomas:**
