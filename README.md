@@ -40,15 +40,6 @@ Aqui estão as ferramentas que utilizo para dar "visão" às máquinas:
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Christen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Lucas Christen"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Christen&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens de Lucas Christen"/>
-</p>
-
----
-
 ### 📚 Educação & Idiomas
 
 * **Análise e Desenvolvimento de Sistemas** | UTFPR-PG
@@ -65,7 +56,7 @@ Aqui estão as ferramentas que utilizo para dar "visão" às máquinas:
 Sempre interessado em trocar experiências sobre **AI Tech**, hardware de alta performance e projetos de visão computacional.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucas-f-christen-69327a21b/">
+    <a href="https://www.linkedin.com/in/lucas-fernandes-christen/">
         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
